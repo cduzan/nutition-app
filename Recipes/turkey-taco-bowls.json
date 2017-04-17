@@ -1,0 +1,66 @@
+{
+	"recipe_id": "turkey_tacos_bowls",
+	"name": "Turkey Taco Bowls",
+	"url": null,
+	"time": {
+		"active": 15,
+		"total": 255
+	},
+	"servings": 10,
+	"difficultyRating": 1,
+	"ingredientSections": [{
+		"name": "",
+		"id": "main"
+	}],
+	"ingredients": [{
+		"id": "ground_turkey",
+		"description": "2 lbs ground turkey",
+		"quantity": 2,
+		"measurement": "lb",
+		"section": "main"
+	},
+	{
+		"id": "corn_canned",
+		"description": "1 (15.25 oz) can of corn, drained",
+		"quantity": 15.25,
+		"measurement": "oz",
+		"section": "main"
+	},
+	{
+		"id": "black_beans_canned",
+		"description": "1 (15 oz) can of black beans",
+		"quantity": 15,
+		"measurement": "oz",
+		"section": "main"
+	},
+	{
+		"id": "taco_seasoning",
+		"description": "1 packet of taco seasoning",
+		"quantity": 1,
+		"measurement": "whole",
+		"section": "main"
+	},
+	{
+		"id": "salsa",
+		"description": "1 (16 oz) jar of salsa",
+		"quantity": 16,
+		"measurement": "oz",
+		"section": "main"
+	},
+	{
+		"id": "brown_rice_raw",
+		"description": "2-1/2 cups of dry, brown rice",
+		"quantity": 120,
+		"measurement": "teaspoon",
+		"section": "main"
+	}],
+	"directions": ["Cook ground turkey in a large frying pan.",
+	"Combine all ingredients in a crock pot. Stir until taco seasoning is completely mixed in.",
+	"Turn crock pot on low for 4 hours.",
+	"With 30 minutes left on the crock pot, cook the brown rice. (A rice cooker comes in handy here if you already have one. Well worth the investment)",
+	"Bring 5 cups of water to a boil, turn it down to simmer, add the rice, and cover for 15 minutes.""Serve the taco mixture over rice."],
+	"notes": ["A serving is a 1/2 cup scoop of the taco mixture and a 1/4 cup scoop of brown rice.",
+	"The ground turkey can be cooked ahead of time and frozen until ready for use. Make sure you move it to the fridge one day before to allow turkey to thaw."],
+	"tags": ["crockpot",
+	"mexican"]
+}

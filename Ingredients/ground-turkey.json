@@ -1,0 +1,35 @@
+{
+	"ingredient_id": "ground_turkey",
+	"name": "Ground Turkey",
+	"cost": {
+		"price": 3.99,
+		"unit": "pound"
+	},
+	"commonalityFactor": 9,
+	"measurements": {
+		"calories": {
+			"gram": 1.5179,
+			"teaspoon": null,
+			"whole": 680
+		},
+		"protein": {
+			"gram": 0.1875,
+			"teaspoon": null,
+			"whole": 84
+		},
+		"carbs": {
+			"gram": 0,
+			"teaspoon": null,
+			"whole": 0
+		},
+		"fat": {
+			"gram": 0.2857,
+			"teaspoon": null,
+			"whole": 32
+		}
+	},
+	"allergies": [],
+	"tags": ["paleo",
+	"low-carb",
+	"no-carb"]
+}

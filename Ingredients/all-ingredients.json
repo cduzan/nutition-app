@@ -1,0 +1,242 @@
+{
+	"ingredients": [{
+		"ingredient_id": "chicken_breast",
+		"name": "Chicken Breast",
+		"cost": {
+			"price": 3.18,
+			"unit": "pound"
+		},
+		"commonalityFactor": 10,
+		"measurements": {
+			"calories": {
+				"gram": 2,
+				"teaspoon": null,
+				"whole": 302
+			},
+			"protein": {
+				"gram": 0.3,
+				"teaspoon": null,
+				"whole": 58
+			},
+			"carbs": {
+				"gram": 0,
+				"teaspoon": null,
+				"whole": 0
+			},
+			"fat": {
+				"gram": 0.033,
+				"teaspoon": null,
+				"whole": 7
+			}
+		},
+		"allergies": [],
+		"tags": ["paleo",
+		"low-carb",
+		"no-carb"]
+	},
+	{
+		"ingredient_id": "ground_turkey",
+		"name": "Ground Turkey",
+		"cost": {
+			"price": 3.99,
+			"unit": "pound"
+		},
+		"commonalityFactor": 9,
+		"measurements": {
+			"calories": {
+				"gram": 1.5179,
+				"teaspoon": null,
+				"whole": 680
+			},
+			"protein": {
+				"gram": 0.1875,
+				"teaspoon": null,
+				"whole": 84
+			},
+			"carbs": {
+				"gram": 0,
+				"teaspoon": null,
+				"whole": 0
+			},
+			"fat": {
+				"gram": 0.2857,
+				"teaspoon": null,
+				"whole": 32
+			}
+		},
+		"allergies": [],
+		"tags": ["paleo",
+		"low-carb",
+		"no-carb"]
+	},
+	{
+		"ingredient_id": "corn_canned",
+		"name": "Corn, Canned",
+		"cost": {
+			"price": 0.07,
+			"unit": "oz"
+		},
+		"commonalityFactor": 10,
+		"measurements": {
+			"calories": {
+				"gram": 0.64,
+				"teaspoon": 3.3333,
+				"whole": 280
+			},
+			"fat": {
+				"gram": 0.008,
+				"teaspoon": 0.0416,
+				"whole": 3.5
+			},
+			"carbs": {
+				"gram": 0.136,
+				"teaspoon": 0.7083,
+				"whole": 59.5
+			},
+			"protein": {
+				"gram": 0.016,
+				"teaspoon": 0.0833,
+				"whole": 7
+			}
+		},
+		"allergies": [],
+		"tags": ["vegan",
+		"vegetarian"]
+	},
+	{
+		"ingredient_id": "black_beans_canned",
+		"name": "Black Beans, Canned",
+		"cost": {
+			"price": 0.05,
+			"unit": "oz"
+		},
+		"commonalityFactor": 10,
+		"measurements": {
+			"calories": {
+				"gram": 0.8462,
+				"teaspoon": 4.5833,
+				"whole": 385
+			},
+			"fat": {
+				"gram": 0,
+				"teaspoon": 0,
+				"whole": 0
+			},
+			"carbs": {
+				"gram": 0.1538,
+				"teaspoon": 0.8333,
+				"whole": 70
+			},
+			"protein": {
+				"gram": 0.0538,
+				"teaspoon": 0.2917,
+				"whole": 24.5
+			}
+		},
+		"allergies": [],
+		"tags": ["vegan",
+		"vegetarian"]
+	},
+	{
+		"ingredient_id": "taco_seasoning",
+		"name": "Taco Seasoning",
+		"cost": {
+			"price": 0.98,
+			"unit": "oz"
+		},
+		"commonalityFactor": 9,
+		"measurements": {
+			"calories": {
+				"gram": 3.3333,
+				"teaspoon": 10,
+				"whole": 120
+			},
+			"fat": {
+				"gram": 0,
+				"teaspoon": 0,
+				"whole": 0
+			},
+			"carbs": {
+				"gram": 0.667,
+				"teaspoon": 2,
+				"whole": 24
+			},
+			"protein": {
+				"gram": 0,
+				"teaspoon": 0,
+				"whole": 0
+			}
+		},
+		"allergies": [],
+		"tags": ["vegan",
+		"vegetarian"]
+	},
+	{
+		"ingredient_id": "salsa",
+		"name": "Salsa",
+		"cost": {
+			"price": 0.12,
+			"unit": "oz"
+		},
+		"commonalityFactor": 10,
+		"measurements": {
+			"calories": {
+				"gram": 0.3226,
+				"teaspoon": 1.6667,
+				"whole": null
+			},
+			"fat": {
+				"gram": 0,
+				"teaspoon": 0,
+				"whole": null
+			},
+			"carbs": {
+				"gram": 0.0968,
+				"teaspoon": 0.5,
+				"whole": null
+			},
+			"protein": {
+				"gram": 0,
+				"teaspoon": 0,
+				"whole": null
+			}
+		},
+		"allergies": [],
+		"tags": ["vegan",
+		"vegetarian"]
+	},
+	{
+		"ingredient_id": "brown_rice_raw",
+		"name": "Brown Rice, Raw",
+		"cost": {
+			"price": 0.10,
+			"unit": "oz"
+		},
+		"commonalityFactor": 9,
+		"measurements": {
+			"calories": {
+				"gram": 1.1077,
+				"teaspoon": 4.5,
+				"whole": null
+			},
+			"fat": {
+				"gram": 0.0092,
+				"teaspoon": 0.0375,
+				"whole": null
+			},
+			"carbs": {
+				"gram": 0.2308,
+				"teaspoon": 0.9375,
+				"whole": null
+			},
+			"protein": {
+				"gram": 0.0256,
+				"teaspoon": 0.1042,
+				"whole": null
+			}
+		},
+		"allergies": [],
+		"tags": ["vegan",
+		"vegetarian"]
+	}]
+}
