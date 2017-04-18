@@ -1,0 +1,37 @@
+{
+	"ingredient_id": "apple_cider_vinegar",
+	"name": "Apple Cider Vinegar",
+	"cost": {
+		"price": 0.20,
+		"unit": "fl oz"
+	},
+	"commonalityFactor": 6,
+	"measurements": {
+		"calories": {
+			"gram": 0.2134,
+			"teaspoon": 1.0625,
+			"whole": null
+		},
+		"fat": {
+			"gram": 0,
+			"teaspoon": 0,
+			"whole": null
+		},
+		"carbs": {
+			"gram": 0.0092,
+			"teaspoon": 0.0458,
+			"whole": null
+		},
+		"protein": {
+			"gram": 0,
+			"teaspoon": 0,
+			"whole": null
+		}
+	},
+	"allergies": [],
+	"tags": ["vegetarian",
+	"vegan",
+	"paleo",
+	"low-carb"
+	]
+}

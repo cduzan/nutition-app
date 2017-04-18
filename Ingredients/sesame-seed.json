@@ -1,0 +1,36 @@
+{
+	"ingredient_id": "sesame_seed",
+	"name": "Sesame Seed",
+	"cost": {
+		"price": 4.00,
+		"unit": "pound"
+	},
+	"commonalityFactor": 6,
+	"measurements": {
+		"calories": {
+			"gram": 5.7778,
+			"teaspoon": 17.3333,
+			"whole": null
+		},
+		"fat": {
+			"gram": 0,
+			"teaspoon": 0,
+			"whole": null
+		},
+		"carbs": {
+			"gram": 0.2333,
+			"teaspoon": 0.7,
+			"whole": null
+		},
+		"protein": {
+			"gram": 0.1778,
+			"teaspoon": 0.5333,
+			"whole": null
+		}
+	},
+	"allergies": [],
+	"tags": ["vegetarian",
+	"vegan",
+	"paleo",
+	"low-carb"]
+}

@@ -1,0 +1,36 @@
+{
+	"ingredient_id": "black_pepper",
+	"name": "Black Pepper",
+	"cost": {
+		"price": 1.20,
+		"unit": "oz"
+	},
+	"commonalityFactor": 10,
+	"measurements": {
+		"calories": {
+			"gram": 2.4638,
+			"teaspoon": 5.6667,
+			"whole": null
+		},
+		"fat": {
+			"gram": 0.029,
+			"teaspoon": 0.0667,
+			"whole": null
+		},
+		"carbs": {
+			"gram": 0.6377,
+			"teaspoon": 1.4667,
+			"whole": null
+		},
+		"protein": {
+			"gram": 0.1014,
+			"teaspoon": 0.2333,
+			"whole": null
+		}
+	},
+	"allergies": [],
+	"tags": ["vegetarian",
+	"vegan",
+	"low-carb",
+	"paleo"]
+}

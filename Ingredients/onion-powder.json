@@ -1,0 +1,35 @@
+{
+	"ingredient_id": "onion_powder",
+	"name": "Onion Powder",
+	"cost": {
+		"price": 0.80,
+		"unit": "oz"
+	},
+	"commonalityFactor": 8,
+	"measurements": {
+		"calories": {
+			"gram": 3.4783,
+			"teaspoon": 8,
+			"whole": null
+		},
+		"fat": {
+			"gram": 0.0145,
+			"teaspoon": 0.0333,
+			"whole": null
+		},
+		"carbs": {
+			"gram": 0.7246,
+			"teaspoon": 1.6667,
+			"whole": null
+		},
+		"protein": {
+			"gram": 0.1014,
+			"teaspoon": 0.2333,
+			"whole": null
+		}
+	},
+	"allergies": [],
+	"tags": ["vegetarian",
+	"vegan",
+	"paleo"]
+}

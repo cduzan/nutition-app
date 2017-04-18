@@ -1,39 +1,37 @@
 {
-    "ingredient_id" : "chicken_breast",
-    "name" : "Chicken Breast",
-    "cost" : {
-        "price" : 3.18,
-        "unit" : "pound"
-    },
-    "commonalityFactor" : 10,
-    "measurements" : {
-        "calories" : {
-            "gram" : 2,
-            "teaspoon" : null,
-            "whole" : 302
-        },
-        "protein" : {
-            "gram" : 0.3,
-            "teaspoon" : null,
-            "whole" : 58
-        },
-        "carbs" : {
-            "gram" : 0,
-            "teaspoon" : null,
-            "whole" : 0
-        },
-        "fat" : {
-            "gram" : 0.033,
-            "teaspoon" : null,
-            "whole" : 7
-        }
-    },
-    "allergies" : [],
-    "tags" : [ 				***** do we really want tags on the ingredients, or just the recipes? *****
-        "paleo", 
-        "low-carb", 
-        "no-carb",
-        "poultry",
-        "chicken"
-    ]
+	"ingredient_id": "chicken_breast",
+	"name": "Chicken Breast",
+	"cost": {
+		"price": 3.18,
+		"unit": "pound"
+	},
+	"commonalityFactor": 10,
+	"measurements": {
+		"calories": {
+			"gram": 2,
+			"teaspoon": null,
+			"whole": 302
+		},
+		"fat": {
+			"gram": 0.033,
+			"teaspoon": null,
+			"whole": 7
+		},
+		"carbs": {
+			"gram": 0,
+			"teaspoon": null,
+			"whole": 0
+		},
+		"protein": {
+			"gram": 0.3,
+			"teaspoon": null,
+			"whole": 58
+		}
+	},
+	"allergies": [],
+	"tags": ["paleo",
+	"low-carb",
+	"no-carb",
+	"poultry",
+	"chicken"]
 }

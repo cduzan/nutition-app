@@ -1,0 +1,36 @@
+{
+	"ingredient_id": "carrot_raw",
+	"name": "Carrot, Raw",
+	"cost": {
+		"price": 0.74,
+		"unit": "pound"
+	},
+	"commonalityFactor": 10,
+	"measurements": {
+		"calories": {
+			"gram": 0.4098,
+			"teaspoon": 1.1042,
+			"whole": 25
+		},
+		"fat": {
+			"gram": 0.0016,
+			"teaspoon": 0.0063,
+			"whole": 0.1
+		},
+		"carbs": {
+			"gram": 0.0984,
+			"teaspoon": 0.25,
+			"whole": 6
+		},
+		"protein": {
+			"gram": 0.0098,
+			"teaspoon": 0.025,
+			"whole": 0.6
+		}
+	},
+	"allergies": [],
+	"tags": ["vegetarian",
+	"vegan",
+	"paleo",
+	"low-carb]
+}

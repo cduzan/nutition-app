@@ -1,0 +1,35 @@
+{
+	"ingredient_id": "garlic_powder",
+	"name": "Garlic Powder",
+	"cost": {
+		"price": 0.80,
+		"unit": "oz"
+	},
+	"commonalityFactor": 8,
+	"measurements": {
+		"calories": {
+			"gram": 3.299,
+			"teaspoon": 10.6667,
+			"whole": null
+		},
+		"fat": {
+			"gram": 0.0103,
+			"teaspoon": 0.0333,
+			"whole": null
+		},
+		"carbs": {
+			"gram": 0.7216,
+			"teaspoon": 2.3333,
+			"whole": null
+		},
+		"protein": {
+			"gram": 0.1649,
+			"teaspoon": 0.5333,
+			"whole": null
+		}
+	},
+	"allergies": [],
+	"tags": ["vegetarian",
+	"vegan",
+	"paleo"]
+}

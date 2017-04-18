@@ -1,0 +1,36 @@
+{
+	"ingredient_id": "carrots_canned",
+	"name": "Carrots, Canned",
+	"cost": {
+		"price": 1.06,
+		"unit": "pound"
+	},
+	"commonalityFactor": 10,
+	"measurements": {
+		"calories": {
+			"gram": 0.25,
+			"teaspoon": 1.25,
+			"whole": 105
+		},
+		"fat": {
+			"gram": 0,
+			"teaspoon": 0,
+			"whole": 0
+		},
+		"carbs": {
+			"gram": 0.05,
+			"teaspoon": 0.25,
+			"whole": 21
+		},
+		"protein": {
+			"gram": 0,
+			"teaspoon": 0,
+			"whole": 0
+		}
+	},
+	"allergies": [],
+	"tags": ["vegetarian",
+	"vegan",
+	"paleo",
+	"low-carb]
+}

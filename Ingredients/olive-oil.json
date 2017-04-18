@@ -1,0 +1,37 @@
+{
+	"ingredient_id": "olive_oil",
+	"name": "Olive Oil",
+	"cost": {
+		"price": 0.25,
+		"unit": "fl oz"
+	},
+	"commonalityFactor": 8,
+	"measurements": {
+		"calories": {
+			"gram": 8.8148,
+			"teaspoon": 39.6667,
+			"whole": null
+		},
+		"fat": {
+			"gram": 1.037,
+			"teaspoon": 4.6667,
+			"whole": null
+		},
+		"carbs": {
+			"gram": 0,
+			"teaspoon": 0,
+			"whole": null
+		},
+		"protein": {
+			"gram": 0,
+			"teaspoon": 0,
+			"whole": null
+		}
+	},
+	"allergies": [],
+	"tags": ["vegetarian",
+	"vegan",
+	"paleo",
+	"low-carb",
+	"no-carb"]
+}

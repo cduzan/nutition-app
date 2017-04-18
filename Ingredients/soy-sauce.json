@@ -1,0 +1,35 @@
+{
+	"ingredient_id": "soy_sauce",
+	"name": "Soy Sauce",
+	"cost": {
+		"price": 0.20,
+		"unit": "fl oz"
+	},
+	"commonalityFactor": 9,
+	"measurements": {
+		"calories": {
+			"gram": 0.5294,
+			"teaspoon": 2.8125,
+			"whole": null
+		},
+		"fat": {
+			"gram": 0.0059,
+			"teaspoon": 0.0313,
+			"whole": null
+		},
+		"carbs": {
+			"gram": 0.051,
+			"teaspoon": 0.2708,
+			"whole": null
+		},
+		"protein": {
+			"gram": 0.0824,
+			"teaspoon": 0.4375,
+			"whole": null
+		}
+	},
+	"allergies": ["soy"],
+	"tags": ["vegetarian",
+	"vegan",
+	"low-carb"]
+}

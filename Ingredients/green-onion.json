@@ -1,0 +1,36 @@
+{
+	"ingredient_id": "green_onion",
+	"name": "Green Onion (aka Scallion)",
+	"cost": {
+		"price": 0.22,
+		"unit": "whole"
+	},
+	"commonalityFactor": 7,
+	"measurements": {
+		"calories": {
+			"gram": 0.3333,
+			"teaspoon": 0.6667,
+			"whole": 5
+		},
+		"fat": {
+			"gram": 0,
+			"teaspoon": 0,
+			"whole": 0
+		},
+		"carbs": {
+			"gram": 0.0733,
+			"teaspoon": 0.1458,
+			"whole": 1.1
+		},
+		"protein": {
+			"gram": 0.02,
+			"teaspoon": 0.0375,
+			"whole": 0.3
+		}
+	},
+	"allergies": [],
+	"tags": ["vegetarian",
+	"vegan",
+	"paleo",
+	"low-carb]
+}

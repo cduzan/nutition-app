@@ -1,0 +1,34 @@
+{
+	"ingredient_id": "sugar",
+	"name": "Sugar",
+	"cost": {
+		"price": 0.65,
+		"unit": "pound"
+	},
+	"commonalityFactor": 10,
+	"measurements": {
+		"calories": {
+			"gram": 3.8095,
+			"teaspoon": 16,
+			"whole": null
+		},
+		"fat": {
+			"gram": 0,
+			"teaspoon": 0,
+			"whole": null
+		},
+		"carbs": {
+			"gram": 1,
+			"teaspoon": 4.2,
+			"whole": null
+		},
+		"protein": {
+			"gram": 0,
+			"teaspoon": 0,
+			"whole": null
+		}
+	},
+	"allergies": [],
+	"tags": ["vegetarian",
+	"vegan"]
+}

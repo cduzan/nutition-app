@@ -1,0 +1,36 @@
+{
+	"ingredient_id": "green_cabbage",
+	"name": "Green Cabbage",
+	"cost": {
+		"price": 0.58,
+		"unit": "pound"
+	},
+	"commonalityFactor": 9,
+	"measurements": {
+		"calories": {
+			"gram": 0.2609,
+			"teaspoon": 0.4583,
+			"whole": 223
+		},
+		"fat": {
+			"gram": 0,
+			"teaspoon": 0,
+			"whole": 0
+		},
+		"carbs": {
+			"gram": 0.0565,
+			"teaspoon": 0.1042,
+			"whole": 53
+		},
+		"protein": {
+			"gram": 0.013,
+			"teaspoon": 0.0229,
+			"whole": 12
+		}
+	},
+	"allergies": [],
+	"tags": ["vegetarian",
+	"vegan",
+	"paleo",
+	"low-carb]
+}

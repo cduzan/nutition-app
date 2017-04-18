@@ -1,0 +1,36 @@
+{
+	"ingredient_id": "baby_carrot_raw",
+	"name": "Baby Carrot, Raw",
+	"cost": {
+		"price": 1.45,
+		"unit": "pound"
+	},
+	"commonalityFactor": 10,
+	"measurements": {
+		"calories": {
+			"gram": 0.4,
+			"teaspoon": null,
+			"whole": 4
+		},
+		"fat": {
+			"gram": 0,
+			"teaspoon": null,
+			"whole": 0
+		},
+		"carbs": {
+			"gram": 0.08,
+			"teaspoon": null,
+			"whole": 0.8
+		},
+		"protein": {
+			"gram": 0.01,
+			"teaspoon": null,
+			"whole": 0.1
+		}
+	},
+	"allergies": [],
+	"tags": ["vegetarian",
+	"vegan",
+	"paleo",
+	"low-carb]
+}

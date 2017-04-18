@@ -1,0 +1,35 @@
+{
+	"ingredient_id": "almonds",
+	"name": "Almonds",
+	"cost": {
+		"price": 0.50,
+		"unit": "oz"
+	},
+	"commonalityFactor": 10,
+	"measurements": {
+		"calories": {
+			"gram": 5.7552,
+			"teaspoon": 17.1458,
+			"whole": 7
+		},
+		"fat": {
+			"gram": 0.4965,
+			"teaspoon": 1.4792,
+			"whole": 0.6
+		},
+		"carbs": {
+			"gram": 0.2168,
+			"teaspoon": 0.6458,
+			"whole": 0.3
+		},
+		"protein": {
+			"gram": 0.2098,
+			"teaspoon": 0.625,
+			"whole": 0.3
+		}
+	},
+	"allergies": ["tree nut"],
+	"tags": ["vegetarian",
+	"vegan",
+	"paleo"]
+}
